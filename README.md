@@ -6,4 +6,4 @@ Java練習_小畫家
 
 詳細註解尚未補上
 
-(Painter_screenshot.jpg?raw=true "Screenshot")
+!(Painter_screenshot.jpg?raw=true "Screenshot")
